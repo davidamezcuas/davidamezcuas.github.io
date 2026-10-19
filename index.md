@@ -1,45 +1,34 @@
 
-# David Amezcua
+---
+layout: default
+title: Home
+---
 
-**Computer Engineering Student | Iowa State University**
+# David Amezcua Santiago
 
-Welcome to my portfolio! I'm interested in Linux, embedded systems, artificial intelligence, and software development.
+### Computer Engineering | Iowa State University
 
-## About Me
+Welcome to my personal portfolio!
 
-I'm currently pursuing a Bachelor's degree in Computer Engineering at Iowa State University. I enjoy working with both hardware and software, exploring new technologies, and developing projects that combine the two.
+I am a Computer Engineering student interested in
+Linux, embedded systems, software development,
+and artificial intelligence.
 
-## Projects
+## Explore My Portfolio
 
-### Agentic AI for Circuit Design
-**Senior Design Project**
+### [About Me](about.md)
+Learn more about my background, education,
+technical interests, and career goals.
 
-Developing an agentic AI system to assist with circuit design and requirements generation using PathRAG, Neo4j, Obsidian, and large language models.
+### [View My Resume](resume.pdf)
+View my education, experience, technical skills,
+and engineering projects.
 
-### Arch Linux Desktop
-**Personal Project**
+### [Projects](projects/senior-design.md)
+Explore my engineering projects and technical work.
 
-Building and customizing an Arch Linux environment using Hyprland, Wayland, and various open-source tools.
-
-### AI-Based AFM Image Analysis
-**Undergraduate Research**
-
-Exploring vision-language models and multimodal AI to analyze atomic force microscopy images, including applications in cancer cell recognition.
-
-## Technical Skills
-
-**Programming:** Python, C, C++, Java
-
-**Hardware:** Verilog, VHDL, RISC-V
-
-**Tools:** Linux, Git, Docker, KiCad, Quartus Prime, LTspice
-
-## Education
-
-**Iowa State University**
-
-B.S. Computer Engineering
-
-## Contact
+## Connect With Me
 
 [GitHub](https://github.com/davidamezcuas)
+
+[LinkedIn](https://www.linkedin.com/in/damezcua04/)
